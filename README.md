@@ -3,9 +3,9 @@
 SSRApiStack.apiEndpoint10A5FB54 = https://7d4xlvfsy6.execute-api.us-east-1.amazonaws.com/prod/
 SSRApiStack.apiurl = https://7d4xlvfsy6.execute-api.us-east-1.amazonaws.com/prod/
 
-SSRAppStack.CFURL = https://d31rh0uralheq7.cloudfront.net
-SSRAppStack.LambdaEdgeSSRURL = https://d31rh0uralheq7.cloudfront.net/edgessr
-SSRAppStack.LambdaSSRURL = https://d31rh0uralheq7.cloudfront.net/ssr
+SSRAppStack.CFURL = https://d31rh0uralheq7.cloudfront.net/
+SSRAppStack.LambdaEdgeSSRURL = https://d31rh0uralheq7.cloudfront.net/edgessr/
+SSRAppStack.LambdaSSRURL = https://d31rh0uralheq7.cloudfront.net/ssr/
 SSRAppStack.SSRAPIURL = https://dvnv93rt8a.execute-api.us-east-1.amazonaws.com/prod/
 SSRAppStack.ssrEndpoint02F5615F = https://dvnv93rt8a.execute-api.us-east-1.amazonaws.com/prod/
 
